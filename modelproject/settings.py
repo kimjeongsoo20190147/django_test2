@@ -192,3 +192,5 @@ SIMPLE_JWT = {
     'TOKEN_TYPE_CLAIM': 'token_type',
     'TOKEN_USER_CLASS': 'rest_framework_simplejwt.models.TokenUser',
 }
+
+ALLOWED_HOSTS = ['port-0-django-test2-416cq2mlgahz9f5.sel3.cloudtype.app', '127.0.0.1']
